@@ -938,6 +938,30 @@ input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, but
    }
 
 /******************
+      SEARCH
+*****************/
+
+.search-result-list {
+    background: #282c34;
+}
+
+.search-container.show {
+    background-color: #282c34;
+}
+
+.search-result-container {
+    background-color: #282c34;
+}
+
+.search-result-item.search-result-item-highlight {
+    background-color: transparent!important;
+}
+
+.search-result-item:hover {
+    background-color: #1A1E22 !important;
+}
+
+/******************
     FILE EDITOR
 *****************/
 
