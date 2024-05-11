@@ -15,3 +15,5 @@ This should work on both Pro and CE but I'm not 100% sure. If you find any eleme
 ### Shared Item Previews
 ![](https://data.wzyss.dev/ShareX/2024/05/chrome_32E3GK6nWf.png)
 ![](https://data.wzyss.dev/ShareX/2024/05/chrome_9ibWpf7okk.png)
+### Search Menu
+![](https://data.wzyss.dev/ShareX/2024/05/chrome_cl9vcuJZ68.png)
