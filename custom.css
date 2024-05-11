@@ -954,7 +954,7 @@ input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, but
 }
 
 .search-result-item.search-result-item-highlight {
-    background-color: transparent!important;
+    background-color: transparent !important;
 }
 
 .search-result-item:hover {
