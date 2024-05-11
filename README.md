@@ -1,4 +1,4 @@
-## seafile11-dark-css
+## seafile11-dark-theme
 Some CSS that has been hobbled together to work with Seafile Pro 11.
 
 The original CSS that I based this on is available here: https://box.yblis.fr/#s/9t10cezQ
