@@ -12,3 +12,9 @@ This should work on both Pro and CE but I'm not 100% sure. If you find any eleme
 ![](/theme-screenshots/dark-theme-showcase.png)
 ### github-theme
 ![](/theme-screenshots/github-theme-showcase.png)
+
+## How to Apply
+1. Navigate to System Admin
+2. Navigate to Settings
+3. Enabled custom CSS & paste CSS code
+4. Enjoy!
