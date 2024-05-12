@@ -3,7 +3,8 @@
 
         --main-bg: #282c34;                
         --dark-bg: #21252b;                   
-        --light-bg: #333842;             
+        --light-bg: #333842;
+        --darker-bg: #21252B;
 
         --main-font: #dbdbdb;               
         --light-font: #eee;                 
@@ -102,6 +103,7 @@ table td, table th {
 .sf-heading {
     border-bottom: 1px solid var(--main-bg);
     color: var(--theme-font);
+    font-weight: bold;
 }
 
 .side-nav-footer {
@@ -937,6 +939,7 @@ input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, but
     background: var(--light-bg);
    }
 
+
 /******************
       SEARCH
 *****************/
@@ -960,6 +963,37 @@ input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, but
 .search-result-item:hover {
     background-color: #1A1E22 !important;
 }
+
+
+/******************
+   Notifications
+*****************/
+
+.notification-container {
+    background: #282c34;
+    box-shadow: 0 0 5px var(--mainbg) !important;
+}
+
+#notice-popover li.read:hover {
+    background: transparent !important;
+}
+
+.notification-footer {
+    background: var(--main-bg) !important;
+}
+
+.notification-dialog-body table td {
+    color: var(--main-font) !important;
+}
+
+.notification-container .notification-header {
+    border-bottom: 1px solid var(--border);
+}
+
+#notice-popover li {
+    border-bottom: 1px solid var(--border);
+}
+
 
 /******************
     FILE EDITOR
