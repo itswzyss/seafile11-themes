@@ -1633,7 +1633,7 @@ textarea {
 }
 
 .shared-file-view-body {
-    background: var(--light-bg);
+    background: var(--main-bg);
     border: 1px solid var(--border);
 }
 
